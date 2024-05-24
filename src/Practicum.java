@@ -55,4 +55,6 @@ class AdvancedHashMap<T1, T2, T3> { //...
         }
         return new ArrayList(innerHashMap.values());
     }
+    // просто доьавили комментариии
+    // еще добавили комментарии
 }
